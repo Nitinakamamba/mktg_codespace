@@ -38,7 +38,8 @@
 			"extensions": [
 				"quarto.quarto",
 				"ms-toolsai.jupyter",
-				"ms-toolsai.datawrangler"
+				"ms-toolsai.datawrangler",
+				"github.copilot"
 			],
 			"settings": {
 				
